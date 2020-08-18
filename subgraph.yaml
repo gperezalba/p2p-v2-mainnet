@@ -7,6 +7,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x79CD02c64f780AD6105DCD2e6D34A5cAB3558AE7"
+      startBlock: 2900000
       abi: PIBP2P
     mapping:
       kind: ethereum/events
@@ -54,6 +55,7 @@ dataSources:
     network: mainnet
     source:
       address: "0xb1668b861f48F72e0B56F0604708cDdc5A4CE2D3"
+      startBlock: 2900000
       abi: PIBP2PCommodity
     mapping:
       kind: ethereum/events
@@ -96,6 +98,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x85de159Ee4Ab9cc655F4e6838Ee69302CDF15B49"
+      startBlock: 2900000
       abi: PIBP2PPackable
     mapping:
       kind: ethereum/events
@@ -138,6 +141,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x33bF66029CbD43a8875b0E3a470AdAd360573b19"
+      startBlock: 2900000
       abi: PIBP2PPackable
     mapping:
       kind: ethereum/events
@@ -180,6 +184,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x609072E59A4223eb0747795222D1B8FCFB29C046"
+      startBlock: 2900000
       abi: PIBP2PFiat
     mapping:
       kind: ethereum/events
@@ -225,6 +230,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x9a46F7034102d716132f4FCA1f4f36132F4E992F"
+      startBlock: 2900000
       abi: Controller
     mapping:
       kind: ethereum/events
@@ -253,6 +259,7 @@ dataSources:
     network: mainnet
     source:
       address: "0x3e4B7f25A608b3E4df696E79d2D2CC354e6D6b8E"
+      startBlock: 2900000
       abi: NameService
     mapping:
       kind: ethereum/events
