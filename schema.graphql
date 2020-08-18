@@ -111,6 +111,7 @@ type DealCommodity @entity {
   offer: OfferCommodity!
   buyer: User!
   seller: User!
+  buyAmount: BigInt!
   sellerVote: BigInt
   buyerVote: BigInt
   auditorVote: BigInt
