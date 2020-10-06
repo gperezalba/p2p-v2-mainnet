@@ -97,7 +97,7 @@ dataSources:
     name: PIBP2PPackable
     network: mainnet
     source:
-      address: "0x85de159Ee4Ab9cc655F4e6838Ee69302CDF15B49"
+      address: "0x4247bc2a705c0250f13437f6d2749880a852fb33"
       startBlock: 2900000
       abi: PIBP2PPackable
     mapping:
